@@ -12,6 +12,7 @@ public class Dog extends Animal {
 
     @Override
     public void getAgeInHumanYears() {
+        System.out.println("Age in human years");
 
     }
 
