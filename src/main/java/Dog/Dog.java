@@ -20,7 +20,7 @@ public class Dog extends Animal {
         return "string";
     }
 
-
+    //I added this
 
     public boolean equals(Dog dog){
         return true;
