@@ -12,7 +12,6 @@ public class Dog extends Animal {
 
     @Override
     public void getAgeInHumanYears() {
-        System.out.println("Age in human years");
 
     }
 
@@ -21,8 +20,9 @@ public class Dog extends Animal {
         return "string";
     }
 
+    //I added this
 
-
+    //Andreea added this
     public boolean equals(Dog dog){
         return true;
 
