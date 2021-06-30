@@ -22,6 +22,10 @@ public class Dog extends Animal {
 
     //I added this
 
+
+    //Andreea added this
+
+
     public boolean equals(Dog dog){
         return true;
 
